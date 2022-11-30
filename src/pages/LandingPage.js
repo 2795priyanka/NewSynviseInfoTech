@@ -23,7 +23,7 @@ function App() {
         <Training/>
         <Resources/>
         <Blog/>
-        <Team/>
+        {/* <Team/> */}
         <Testimonial/>
         <Contact/>
         <Footer/>

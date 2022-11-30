@@ -63,7 +63,8 @@ export class Footer extends Component {
                                     <div className="col-md-6 ">
                                         <h6>(India)</h6>
                                   
-                                       <p><span><i class="fas fa-phone-alt"></i></span>&nbsp; 8909433333</p>
+                                       <p style={{marginBottom:"0rem"}}><span><i class="fas fa-phone-alt"></i></span>&nbsp; +918909533333</p>
+                                       <p><span><i class="fas fa-phone-alt"></i></span>&nbsp; +918909433333</p>
                                         <p><span><i class="fas fa-map-marker-alt"></i></span>&nbsp;G-4 sukhmani plaza Amitesh nagar A.B road Indore </p>
                                         <p><span><i class="far fa-envelope"></i></span>&nbsp; Synviseinfotech@gmail.com</p>
                                      
@@ -72,7 +73,7 @@ export class Footer extends Component {
                                         <h6>(UK)</h6>
                                         <p><span><i class="fas fa-phone-alt"></i></span>&nbsp; +447393679043 </p>
                                         <p><span><i class="fas fa-map-marker-alt"></i></span>&nbsp;
-                                            25.20 A, Chapters Spitalfields, 9 Frying Pan Alley, London, United Kingdom, E17HS </p>
+                                        25 Crossharbour Plaza, London E14 9YF</p>
                                         <p><span><i class="far fa-envelope"></i></span>&nbsp; Synviseinfotech@gmail.com</p>
                                     </div>
                                 </div>
